@@ -1,4 +1,4 @@
-# Snake-PWA
+# Snake PWA
 snake
 
 # Game Snake em JavaScript PWA
